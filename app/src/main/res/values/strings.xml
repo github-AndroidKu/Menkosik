@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Menkosik</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bandung">Bandung</string>
+    <string name="sumedang">Sumedang</string>
+    <string name="jakarta">Jakarta</string>
+    <string name="lampung">Lampung</string>
+    <string name="medan">Medan</string>
+    <string name="bekasi">Bekasi</string>
+    <string name="klaten">Klaten</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="tidak_punya_akun">Tidak punya akun? </string>
+    <string name="registered"> Registrasi</string>
+    <string name="action_sign_in_short">Masukan Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="nama_register">Nama</string>
+    <string name="telepon_register">No. Telpon</string>
+    <string name="alamat_register">Alamat Rumah</string>
+    <string name="email_register">Email</string>
+    <string name="password_register">password</string>
+    <string name="sudah_register">Sudah Registrasi?</string>
+    <string name="register">Registrasi</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="post_kosan">Post Kosan</string>
+    <string name="data_kosan">Data Kosan</string>
+    <string name="logout_profile">Logout</string>
+    <string name="nama_kosan">Nama Kosan</string>
+    <string name="alamat_kosan">Alamat Kosan</string>
+    <string name="set_map">Set Lokasi</string>
+    <string name="harga_kosan">Rp. Bulan/Tahun</string>
+    <string name="publish_kosan">Publish Kosan</string>
+    <string name="simpan_profile">Simpan</string>
+
+    <string name="minimum_password">Password  minimal 6 karakter!</string>
+    <string name="auth_failed">Gagal, cek Email dan Password, aktifkan koneksi!</string>
+    <string name="kota">Kota : </string>
+    <string name="daerah">Daerah : </string>
+    <string name="nama_pemilik">Nama Pemilik : </string>
+    <string name="hp_kosan">No Telepon : </string>
+    <string name="nama_pemilik_read">Nama Pemilik : </string>
+    <string name="nama_kosan_read">Nama Kosan : </string>
+    <string name="telepon_read">Telepon : </string>
+    <string name="Daerah_read">Daerah : </string>
+    <string name="bulan_tahun_read">Rp. Bulan/Tahun : </string>
+    <string name="lokasi">Lokasi</string>
+    <string name="lupa_password">Lupa Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="verifikasi">Verifikasi</string>
+    <string name="fasilitas_read">Fasilitas : </string>
+    <string name="Alamat_read">Alamat :</string>
+    <string name="action_password">Masukan Password</string>
+    <string name="action_telepon">Masukan Telepon</string>
+    <string name="action_notelepon">Masukan No.Hp</string>
+    <string name="action_nama_kosan">Nama Kosan</string>
+    <string name="action_alamat">Masukan Alamat</string>
+    <string name="action_kota">Masukan Kota</string>
+    <string name="action_daerah">Masukan Daerah</string>
+    <string name="action_lokasi">Masukan Lokasi</string>
+    <string name="action_harga">Masukan Harga</string>
+    <string name="action_fasilitas">Masukan Fasilitas</string>
+    <string name="fasilitas_kos">Fasilitas :</string>
+
+</resources>

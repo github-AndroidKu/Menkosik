@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android1:id="@+id/profile"
+        android1:icon="@drawable/ic_person_white_24dp"
+        app:showAsAction="ifRoom|withText"
+        android1:title="">
+    </item>
+</menu>

@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "59405493528",
+    "firebase_url": "https://menkosik-149eb.firebaseio.com",
+    "project_id": "menkosik-149eb",
+    "storage_bucket": "menkosik-149eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59405493528:android:e650214e1a4b15d6",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.menkosik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59405493528-clg4d5grlp2lihi2p7depjtb2bib50f8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.menkosik",
+            "certificate_hash": "d88b3bb6a19d3f686a69349c3d22fefab384cd60"
+          }
+        },
+        {
+          "client_id": "59405493528-va7p4po91mtkcgehkvmj0g8iin4frpe3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.d3ifcool.menkosik",
+            "certificate_hash": "eea8591f7d41c06761e60c36538828918659c2bb"
+          }
+        },
+        {
+          "client_id": "59405493528-9jmkbp966gimccgqlq0lvni2pf6mhijc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-1WkpeMlwhCUYPnpmz2nci_JwLQddcc"
+        },
+        {
+          "current_key": "AIzaSyDTpMmLrLk1Zq6JKycYdPjSWnUiiWgZv68"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59405493528-pa2sk77qkucm4rg8jgv33fnr6qlqgf7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
